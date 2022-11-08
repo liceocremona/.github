@@ -4,8 +4,8 @@
 
 ### Progetti
 #### CHeArIA
+- [Docs](https://github.com/liceocremona/chearia)
 - [chearia-box](https://github.com/liceocremona/chearia-box)
-- [chearia-docs](https://github.com/liceocremona/chearia-docs)
 - [chearia-backend](https://github.com/liceocremona/chearia-backend)
 - [chearia-frontend](https://github.com/liceocremona/chearia-frontend)
 - [chearia-data_analyses](https://github.com/liceocremona/chearia-data_analyses)
